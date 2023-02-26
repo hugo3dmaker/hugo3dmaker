@@ -35,4 +35,3 @@ Pour d'autres demandes, vous pouvez me contacter depuis mes réseaux sociaux dis
 
 ## 📊 Mes Statistiques
 [![Mes Statistiques](https://github-readme-stats.vercel.app/api?username=hugo3dmaker&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-![Mes Statistiques](https://github-readme-stats.vercel.app/api/top-langs/?username=hugo3dmaker&&hide_langs_below=1&layout=compact&theme=dark)
