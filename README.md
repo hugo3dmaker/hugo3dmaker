@@ -1,4 +1,4 @@
-# Hugo's 3D Maker, apprenti développeur.
+# Hugo's 3D Maker
 ## 👋 Présentation
 Moi, c'est Poulpitos. Je suis un passionné d'informatique, de jeux vidéos et des nouvelles technologies. Il y a 4 ans, j'ai décidé de me lancer dans des projets comme **[PlayLaSurvieFr](https://playlasurviefr.eu/)**, un serveur de jeu Minecraft sur le thème de la survie et du semi-rp où le but étais de faire des villes, des villages et des nations. (création 2020)
 
@@ -29,7 +29,7 @@ Je travaille de façon autodidacte et j'apprend tous seul. Je touche a tout et p
 Vous avez plusieurs options pour me contacter. Pour des contacts pro, passez directement par **[mon adresse mail](mailto:contactemhpro@gmail.com?subject=Contact%20via%20Github)**.
 Pour d'autres demandes, vous pouvez me contacter depuis mes réseaux sociaux disponibles ci-dessous.
 
-<a href="https://www.instagram.com/hugo3dmaker/" target="_blank"><img src="https://i.ibb.co/GdK0fZc/icon-clyde-white-RGB.png" width="50px" alt="Discord Icon"></a>
+<a href="https://www.instagram.com/hugo3dmaker/" target="_blank"><img src="https://i.ibb.co/MSxs9D6/instagram-3-1.png" width="43px" alt="instagram-1-3"></a>
 <a href="https://twitter.com/hugo3dmaker" target="_blank"><img src="https://i.ibb.co/znmWxSs/2021-Twitter-logo-white.png" width="50px" alt="Twitter Icon"></a>
 <a href="https://discord.com/invite/G4RxBPVSAg" target="_blank"><img src="https://i.ibb.co/GdK0fZc/icon-clyde-white-RGB.png" width="50px" alt="Discord Icon"></a>
 
