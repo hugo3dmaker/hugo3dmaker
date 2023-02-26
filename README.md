@@ -1,30 +1,37 @@
-# Poulpitos, apprenti développeur.
+# Hugo's 3D Maker, apprenti développeur.
 ## 👋 Présentation
-Moi, c'est Poulpitos. Je suis un passionné d'informatique, de jeux vidéos et des nouvelles technologies. Il y a 2 ans, j'ai décidé de me lancer dans le développement en devenant développeur et administrateur du **[Palamazon](https://palamazon.fr/)**, une plateforme d'échange d'objets entres joueurs pour le serveur minecraft **[Paladium](https://paladium-pvp.fr/)**. 
+Moi, c'est Poulpitos. Je suis un passionné d'informatique, de jeux vidéos et des nouvelles technologies. Il y a 4 ans, j'ai décidé de me lancer dans des projets comme **[PlayLaSurvieFr](https://playlasurviefr.eu/)**, un serveur de jeu Minecraft sur le thème de la survie et du semi-rp où le but étais de faire des villes, des villages et des nations. (création 2020)
 
-Plus récemment, j'ai rejoint l'équipe de **[Sea of Thieves France](https://sotfr.net)**, une organisation communautaire rassemblant les joueurs francophones du jeu **[Sea of Thieves](https://www.seaofthieves.com/fr)**, affiliée à **[Rare](https://www.rare.co.uk/)** et **[Sea of Thieves](https://www.seaofthieves.com/fr)**.
+Plus récemment, j'ai co-fondé **[Weedev](https://www.weedev.eu)** en 2021, un prestaire de services en ligne axé dans le développement. Weedev c'est des passionnés d‘informatique, à votre service pour réaliser vos projets sur mesure. Créativité, technicité et professionnalisme sont les atouts de Weedev.
 
-> ❓ **Tu souhaites plus d'informations? Pose une question [ici](https://github.com/ImPoulpitos/ImPoulpitos/issues)**
+Et mon projet futur serait **[UniGency](https://www.unigency.fr)**, une agence digitale qui aura pour but d'aider des projets ou des petites entreprises à réussir grâce à diverses solutions
+
+> ❓ **Tu souhaites plus d'informations? Rejoins nos Discord : [PlayLaSurvieFr](https://discord.com/invite/84TGVKgfvD) - [Weedev](https://discord.com/invite/G4RxBPVSAg)** 
 
 ## 📁 Mes projets
-Voici tous les gros projets auxquels j'ai contribué, à noter que certains d'entre eux sont privés. J'ai également d'autres projets personnels mais non publiés.
-- [Palamazon](https://github.com/PalamazonOff) : Plateforme d'échange d'objets entre joueurs pour le serveur minecraft Paladium.
-    - [Bot](https://github.com/PalamazonOff/palamazon-bot) : Le bot Discord du serveur Discord.
-    - [Front-end](https://github.com/PalamazonOff/palamazon-front) : Tout l'aspect visuel de la plateforme.
-    - [Back-end](https://github.com/PalamazonOff/palamazon-back) : L'API pour la plateforme.
-- [Sea of Thieves France](https://github.com/Sea-of-Thieves-France) : Communauté francophone des pirates de Sea of Thieves
-    - [Belle-Bot](https://github.com/Sea-of-Thieves-France/Belle) : Un bot multifonctions pour le serveur Discord
-    - [Xbox-Auth](https://github.com/Sea-of-Thieves-France/XboxAuth) : Une API pour vérifier les utilisateurs Discord depuis Xbox Live.
-
+Voici tous les gros projets auxquels j'ai contribué, à noter que certains d'entre eux sont en cours de réalisation, non avouti ou privés.
+- [PlayLaSurvieFr](https://github.com/playlasurviefr) : Serveur Minecraft Survie / Semi-RP.
+    - [Bot](https://github.com/playlasurviefr) : Le bot Discord du serveur Discord.
+    - [Site](https://github.com/playlasurviefr) : Le site du projet.
+    - [Plugins](https://github.com/playlasurviefr) : Les plugins et systèmes créé par nous.
+- [Weedev](https://github.com/Weedev-Fr) : Prestataire de service en ligne.
+    - [Bot](https://github.com/Weedev-Fr) : Le bot Discord du serveur Discord.
+- [UniGency](https://github.com/UniGency) : Agence Digitale.
+    - [Bot](https://github.com/UniGency) : Bot multifonctions pour les serveurs Discord & annonce Unigency.
+- [UniTools](https://github.com/UniGency/UniTools) : Boite à outils.
+    - [UniVPN](https://github.com/UniGency/UniTools) : Outils VPN.
+    - [UniTransfer](https://github.com/UniGency/UniTools) : Outils de transfert cloud.
+    
 ## ✨ Mes compétences
-Je travaille essentiellement en JavaScript et plus précisemment en NodeJS pour réaliser mes projets. Cependant, il m'arrive de travailler avec d'autres langages tels que Java, Python, CSS, HTML, etc... dans le cadre de mes études ou lors de mes projets personnels.
+Je travaille de façon autodidacte et j'apprend tous seul. Je touche a tout et particulièrement au design, a la conceptions 3D et l'impression 3D ([J'ai une chaine Youtube](https://www.youtube.com/@Hugo3DMaker) ou je vais faire des vidéos du genre), je fait aussi un peu de développement et j'aime l'aspect marketing et communication.
 
 ## 🤝 Me contacter
-Vous avez plusieurs options pour me contacter. Pour des contacts pros, passez directement par **[mon adresse mail](mailto:contact@poulpitos.fr?subject=Contact%20via%20Github)**.
-Pour d'autres demandes, vous pouvez me contacter depuis Discord ou Twitter disponibles ci-dessous.
+Vous avez plusieurs options pour me contacter. Pour des contacts pro, passez directement par **[mon adresse mail](mailto:contactemhpro@gmail.com?subject=Contact%20via%20Github)**.
+Pour d'autres demandes, vous pouvez me contacter depuis mes réseaux sociaux disponibles ci-dessous.
 
-<a href="https://discord.bio/p/poulpitos" target="_blank"><img src="https://i.ibb.co/GdK0fZc/icon-clyde-white-RGB.png" width="50px" alt="Discord Icon"></a>
-<a href="https://twitter.com/Poulpitos_" target="_blank"><img src="https://i.ibb.co/znmWxSs/2021-Twitter-logo-white.png" width="50px" alt="Twitter Icon"></a>
+<a href="https://www.instagram.com/hugo3dmaker/" target="_blank"><img src="https://i.ibb.co/GdK0fZc/icon-clyde-white-RGB.png" width="50px" alt="Discord Icon"></a>
+<a href="https://twitter.com/hugo3dmaker" target="_blank"><img src="https://i.ibb.co/znmWxSs/2021-Twitter-logo-white.png" width="50px" alt="Twitter Icon"></a>
+<a href="https://discord.com/invite/G4RxBPVSAg" target="_blank"><img src="https://i.ibb.co/GdK0fZc/icon-clyde-white-RGB.png" width="50px" alt="Discord Icon"></a>
 
 ## 📊 Mes Statistiques
-[![Mes Statistiques](https://github-readme-stats.vercel.app/api?username=ImPoulpitos&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Mes Statistiques](https://github-readme-stats.vercel.app/api?username=hugo3dmaker&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
