@@ -1,4 +1,4 @@
-# Hugo's 3D Maker
+# Hugo's 3D Maker [![Profile Views](https://komarev.com/ghpvc/?username=hugo3dmaker&color=brightgreen)](https://github.com/hugo3dmaker)
 ## 👋 Présentation
 Moi, c'est Poulpitos. Je suis un passionné d'informatique, de jeux vidéos et des nouvelles technologies. Il y a 4 ans, j'ai décidé de me lancer dans des projets comme **[PlayLaSurvieFr](https://playlasurviefr.eu/)**, un serveur de jeu Minecraft sur le thème de la survie et du semi-rp où le but étais de faire des villes, des villages et des nations. (création 2020)
 
