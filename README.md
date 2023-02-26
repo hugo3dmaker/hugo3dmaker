@@ -4,7 +4,7 @@ Moi, c'est Poulpitos. Je suis un passionné d'informatique, de jeux vidéos et d
 
 Plus récemment, j'ai co-fondé **[Weedev](https://www.weedev.eu)** en 2021, un prestaire de services en ligne axé dans le développement. Weedev c'est des passionnés d‘informatique, à votre service pour réaliser vos projets sur mesure. Créativité, technicité et professionnalisme sont les atouts de Weedev.
 
-Et mon projet futur serait **[UniGency](https://www.unigency.fr)**, une agence digitale qui aura pour but d'aider des projets ou des petites entreprises à réussir grâce à diverses solutions
+Et mon projet futur serait **[UniGency](https://www.unigency.fr)**, une agence digitale qui aura pour but d'aider des projets ou des petites entreprises à réussir grâce à diverses solutions.
 
 > ❓ **Tu souhaites plus d'informations ? Rejoins nos Discord : [PlayLaSurvieFr](https://discord.com/invite/84TGVKgfvD) - [Weedev](https://discord.com/invite/G4RxBPVSAg)** 
 
