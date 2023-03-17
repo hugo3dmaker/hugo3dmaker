@@ -23,7 +23,7 @@ Voici tous les gros projets auxquels j'ai contribué, à noter que certains d'en
     - [UniTransfer](https://github.com/UniGency/UniTools) : Outils de transfert cloud.
     
 ## ✨ Mes compétences
-Je travaille de façon autodidacte et j'apprend tous seul. Je touchetout et particulièrement au design, à la conceptions 3D et l'impression 3D ([J'ai une chaine Youtube](https://www.youtube.com/@Hugo3DMaker) ou je vais faire des vidéos du genre), je fait aussi un peu de développement et j'aime l'aspect marketing et communication.
+Je travaille de façon autodidacte et j'apprend tous seul. Je touche à tous et particulièrement au design, à la conceptions 3D et l'impression 3D ([J'ai une chaine Youtube](https://www.youtube.com/@Hugo3DMaker) ou je vais faire des vidéos du genre), je fais aussi un peu de développement et j'aime l'aspect marketing et communication.
 
 ## 🤝 Me contacter
 Vous avez plusieurs options pour me contacter. Pour des contacts pro, passez directement par **[mon adresse mail](mailto:contactemhpro@gmail.com?subject=Contact%20via%20Github)**.
