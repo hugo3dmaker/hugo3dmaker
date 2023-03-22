@@ -18,9 +18,8 @@ Voici tous les gros projets auxquels j'ai contribué, à noter que certains d'en
     - [Bot](https://github.com/Weedev-Fr) : Le bot Discord du serveur Discord.
 - [UniGency](https://github.com/UniGency) : Agence Digitale.
     - [Bot](https://github.com/UniGency) : Bot multifonctions pour les serveurs Discord & annonce Unigency.
-- [UniTools](https://github.com/UniGency/UniTools) : Boite à outils.
-    - [UniVPN](https://github.com/UniGency/UniTools) : Outils VPN.
-    - [UniTransfer](https://github.com/UniGency/UniTools) : Outils de transfert cloud.
+- [UniSpace](https://space.unigency.fr) : Boite à outils.
+    - [UniPassword](https://password.unigency.fr) : Générateur de mot de passe.
     
 ## ✨ Mes compétences
 Je travaille de façon autodidacte et j'apprend tous seul. Je touche à tous et particulièrement au design, à la conceptions 3D et l'impression 3D ([J'ai une chaine Youtube](https://www.youtube.com/@Hugo3DMaker) ou je vais faire des vidéos du genre), je fais aussi un peu de développement et j'aime l'aspect marketing et communication.
