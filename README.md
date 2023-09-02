@@ -1,12 +1,10 @@
 # Hugo's 3D Maker [![Profile Views](https://komarev.com/ghpvc/?username=hugo3dmaker&color=brightgreen)](https://github.com/hugo3dmaker)
 ## 👋 Présentation
-Moi, c'est Hugo's 3D Maker. Je suis un passionné d'informatique, de jeux vidéos et des nouvelles technologies. Il y a 3 ans, j'ai décidé de me lancer dans des projets comme **[PlayLaSurvieFr](https://playlasurviefr.eu/)**, un serveur de jeu Minecraft sur le thème de la survie et du semi-rp où le but étais de faire des villes, des villages et des nations. (création 2020)
+Moi, c'est Hugo's 3D Maker. Je suis un passionné d'informatique et des nouvelles technologies. Il y a 3 ans, j'ai décidé de me lancer dans des projets comme **[PlayLaSurvieFr](https://playlasurviefr.eu/)**, un serveur de jeu Minecraft sur le thème de la survie et du semi-rp où le but étais de faire des villes, des villages et des nations. (création 2020)
 
-Plus récemment, j'ai co-fondé **[Weedev](https://www.weedev.eu)** en 2021, un prestaire de services en ligne axé dans le développement. Weedev c'est des passionnés d‘informatique, à votre service pour réaliser vos projets sur mesure. Créativité, technicité et professionnalisme sont les atouts de Weedev.
+Plus récemment, j'ai Fondé **[Weedev](https://www.weedev.eu)** en 2021, un prestaire de services en ligne axé dans le design et le développement. Weedev c'est des passionnés d‘informatique, à votre service pour réaliser vos projets sur mesure. Créativité, technicité et professionnalisme sont les atouts de Weedev.
 
-Et mon projet futur serait **[UniGency](https://www.unigency.fr)**, une agence digitale qui aura pour but d'aider des projets ou des petites entreprises à réussir grâce à diverses solutions.
-
-> ❓ **Tu souhaites plus d'informations ? Rejoins nos Discord : [PlayLaSurvieFr](https://discord.com/invite/84TGVKgfvD) - [Weedev](https://discord.com/invite/G4RxBPVSAg)** 
+Et mon projet le plus récent est **[UniGency](https://www.unigency.fr)**, une agence digitale qui aide des projets ou des petites entreprises à réussir grâce à diverses solutions.
 
 ## 📁 Mes projets
 Voici tous les gros projets auxquels j'ai contribué, à noter que certains d'entre eux sont en cours de réalisation, non avouti ou privés.
@@ -16,8 +14,9 @@ Voici tous les gros projets auxquels j'ai contribué, à noter que certains d'en
     - [Plugins](https://github.com/playlasurviefr) : Les plugins et systèmes créé par nous.
 - [Weedev](https://github.com/Weedev-Fr) : Prestataire de service en ligne.
     - [Bot](https://github.com/Weedev-Fr) : Le bot Discord du serveur Discord.
+    - [Site](https://www.weedev.eu) : Le site de Weedev.
 - [UniGency](https://github.com/UniGency) : Agence Digitale.
-    - [Bot](https://github.com/UniGency) : Bot multifonctions pour les serveurs Discord & annonce Unigency.
+    - [Site](https://www.unigency.fr) : Le site d'UniGency.
 - [UniSpace](https://space.unigency.fr) : Boite à outils.
     - [UniPassword](https://password.unigency.fr) : Générateur de mot de passe.
     - [UniLink](https://link.unigency.fr) : Générateur de liens court.
@@ -26,7 +25,7 @@ Voici tous les gros projets auxquels j'ai contribué, à noter que certains d'en
 Je travaille de façon autodidacte et j'apprend tous seul. Je touche à tous et particulièrement au design, à la conceptions 3D et l'impression 3D ([J'ai une chaine Youtube](https://www.youtube.com/@Hugo3DMaker) ou je vais faire des vidéos du genre), je fais aussi un peu de développement et j'aime l'aspect marketing et communication.
 
 ## 🤝 Me contacter
-Vous avez plusieurs options pour me contacter. Pour des contacts pro, passez directement par **[mon adresse mail](mailto:contactemhpro@gmail.com?subject=Contact%20via%20Github)**.
+Vous avez plusieurs options pour me contacter. Pour des contacts pro, passez directement par **[mon adresse mail](mailto:contact@unigency.fr?subject=Contact%20via%20Github)**.
 Pour d'autres demandes, vous pouvez me contacter depuis mes réseaux sociaux disponibles ci-dessous.
 
 <a href="https://www.instagram.com/hugo3dmaker/" target="_blank"><img src="https://i.ibb.co/MSxs9D6/instagram-3-1.png" width="43px" alt="instagram-1-3"></a>
