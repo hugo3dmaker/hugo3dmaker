@@ -17,9 +17,6 @@ Voici tous les gros projets auxquels j'ai contribué, à noter que certains d'en
     - [Site](https://www.weedev.eu) : Le site de Weedev.
 - [UniGency](https://github.com/UniGency) : Agence Digitale.
     - [Site](https://www.unigency.fr) : Le site d'UniGency.
-- [UniSpace](https://space.unigency.fr) : Boite à outils.
-    - [UniPassword](https://password.unigency.fr) : Générateur de mot de passe.
-    - [UniLink](https://link.unigency.fr) : Générateur de liens court.
     
 ## ✨ Mes compétences
 Je travaille de façon autodidacte et j'apprend tous seul. Je touche à tous et particulièrement au design, à la conceptions 3D et l'impression 3D ([J'ai une chaine Youtube](https://www.youtube.com/@Hugo3DMaker) ou je vais faire des vidéos du genre), je fais aussi un peu de développement et j'aime l'aspect marketing et communication.
