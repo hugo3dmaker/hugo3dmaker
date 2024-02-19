@@ -5,18 +5,6 @@ Moi, c'est Hugo's 3D Maker. Je suis un passionné d'informatique et des nouvelle
 Plus récemment, j'ai Fondé **[Weedev](https://www.weedev.eu)** en 2021, un prestaire de services en ligne axé dans le design et le développement. Weedev c'est des passionnés d‘informatique, à votre service pour réaliser vos projets sur mesure. Créativité, technicité et professionnalisme sont les atouts de Weedev.
 
 Et mon projet le plus récent est **[UniGency](https://www.unigency.fr)**, une agence digitale qui aide des projets ou des petites entreprises à réussir grâce à diverses solutions.
-
-## 📁 Mes projets
-Voici tous les gros projets auxquels j'ai contribué, à noter que certains d'entre eux sont en cours de réalisation, non avouti ou privés.
-- [PlayLaSurvieFr](https://github.com/playlasurviefr) : Serveur Minecraft Survie / Semi-RP.
-    - [Bot](https://github.com/playlasurviefr) : Le bot Discord du serveur Discord.
-    - [Site](https://github.com/playlasurviefr) : Le site du projet.
-    - [Plugins](https://github.com/playlasurviefr) : Les plugins et systèmes créé par nous.
-- [Weedev](https://github.com/Weedev-Fr) : Prestataire de service en ligne.
-    - [Bot](https://github.com/Weedev-Fr) : Le bot Discord du serveur Discord.
-    - [Site](https://www.weedev.eu) : Le site de Weedev.
-- [UniGency](https://github.com/UniGency) : Agence Digitale.
-    - [Site](https://www.unigency.fr) : Le site d'UniGency.
     
 ## ✨ Mes compétences
 Je travaille de façon autodidacte et j'apprend tous seul. Je touche à tous et particulièrement au design, à la conceptions 3D et l'impression 3D ([J'ai une chaine Youtube](https://www.youtube.com/@Hugo3DMaker) ou je vais faire des vidéos du genre), je fais aussi un peu de développement et j'aime l'aspect marketing et communication.
