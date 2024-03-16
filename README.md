@@ -16,6 +16,3 @@ Pour d'autres demandes, vous pouvez me contacter depuis mes réseaux sociaux dis
 <a href="https://www.instagram.com/hugo3dmaker/" target="_blank"><img src="https://i.ibb.co/MSxs9D6/instagram-3-1.png" width="43px" alt="instagram-1-3"></a>
 <a href="https://twitter.com/hugo3dmaker" target="_blank"><img src="https://i.ibb.co/znmWxSs/2021-Twitter-logo-white.png" width="50px" alt="Twitter Icon"></a>
 <a href="https://discord.com/invite/G4RxBPVSAg" target="_blank"><img src="https://i.ibb.co/GdK0fZc/icon-clyde-white-RGB.png" width="50px" alt="Discord Icon"></a>
-
-## 📊 Mes Statistiques
-[![Mes Statistiques](https://github-readme-stats.vercel.app/api?username=hugo3dmaker&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
