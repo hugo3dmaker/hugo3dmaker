@@ -11,8 +11,4 @@ Je travaille de façon autodidacte et j'apprend tous seul. Je touche à tous et 
 
 ## 🤝 Me contacter
 Vous avez plusieurs options pour me contacter. Pour des contacts pro, passez directement par **[mon adresse mail](mailto:contact@unigency.fr?subject=Contact%20via%20Github)**.
-Pour d'autres demandes, vous pouvez me contacter depuis mes réseaux sociaux disponibles ci-dessous.
-
-<a href="https://www.instagram.com/hugo3dmaker/" target="_blank"><img src="https://i.ibb.co/MSxs9D6/instagram-3-1.png" width="43px" alt="instagram-1-3"></a>
-<a href="https://twitter.com/hugo3dmaker" target="_blank"><img src="https://i.ibb.co/znmWxSs/2021-Twitter-logo-white.png" width="50px" alt="Twitter Icon"></a>
-<a href="https://discord.com/invite/G4RxBPVSAg" target="_blank"><img src="https://i.ibb.co/GdK0fZc/icon-clyde-white-RGB.png" width="50px" alt="Discord Icon"></a>
+Pour d'autres demandes, vous pouvez me contacter depuis mes réseaux sociaux.
