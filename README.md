@@ -1,6 +1,6 @@
-# Hugo's 3D Maker [![Profile Views](https://komarev.com/ghpvc/?username=hugo3dmaker&color=brightgreen)](https://github.com/hugo3dmaker)
+# Hugo [![Profile Views](https://komarev.com/ghpvc/?username=hugo3dmaker&color=brightgreen)](https://github.com/hugo3dmaker)
 ## 👋 Présentation
-Moi, c'est Hugo's 3D Maker. Je suis un passionné d'informatique et des nouvelles technologies. Il y a 3 ans, j'ai décidé de me lancer dans des projets comme **[Panderia](https://panderia.fr)**, un serveur de jeu Minecraft sur le thème de la survie et du semi-rp où le but étais de faire des villes, des villages et des nations. (création 2020)
+Moi, c'est Hugo. Je suis un passionné d'informatique et des nouvelles technologies. Il y a 3 ans, j'ai décidé de me lancer dans des projets comme **[Panderia](https://panderia.fr)**, un serveur de jeu Minecraft sur le thème de la survie et du semi-rp où le but étais de faire des villes, des villages et des nations. (création 2020)
 
 Plus récemment, j'ai Fondé **[Weedev](https://www.weedev.eu)** en 2021, un prestaire de services en ligne axé dans le design et le développement. Weedev c'est des passionnés d‘informatique, à votre service pour réaliser vos projets sur mesure. Créativité, technicité et professionnalisme sont les atouts de Weedev.
 
