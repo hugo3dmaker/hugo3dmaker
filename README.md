@@ -1,16 +1,27 @@
 # Hugo ROCHETTE [![Profile Views](https://komarev.com/ghpvc/?username=hugo3dmaker&color=brightgreen)](https://github.com/hugo3dmaker)
-## 👋 Présentation
-Moi, c'est Hugo. Je suis un passionné d'informatique et des nouvelles technologies. En 2020, j'ai décidé de me lancer dans des projets comme **[Panderia](https://panderia.fr)**, un serveur de jeu Minecraft sur le thème de la survie et du semi-rp où le but étais de faire des villes, des villages et des nations.
 
-Ensuite, j'ai Fondé **[Weedev](https://www.weedev.eu)** en 2021, un prestaire de services en ligne axé dans le design et le développement. Weedev c'est des passionnés d‘informatique, à votre service pour réaliser vos projets sur mesure. Créativité, technicité et professionnalisme sont les atouts de Weedev.
+## 👋 À propos de moi
 
-Plus récemment, **[UniGency](https://www.unigency.fr)**, une agence digitale qui aide des projets ou des petites entreprises à réussir grâce à diverses solutions et services.
+Je m'appelle Hugo Rochette, passionné par le monde de l'informatique et des nouvelles technologies. Depuis 2020, je mène des projets axés sur le numérique et l'innovation, en cultivant un savoir-faire dans le développement web, la conception 3D et la gestion de projets.
 
-Et mon projet le plus récent est **[MyUniSpace](https://myunispace.com)**, une suite complète d'outils en ligne pour booster la productivité pour les professionnels et particuliers, le projet est toujours en cours de développement.
-    
-## ✨ Mes compétences
-Je travaille de façon autodidacte et j'apprend seul. Je touche à tous et particulièrement au design, à la conceptions 3D et l'impression 3D ([J'ai une chaine Youtube](https://www.youtube.com/@Hugo3DMaker) ou je vais faire des vidéos du genre), je fais aussi un peu de développement et j'aime l'aspect marketing, communication et management de projet.
+### Mes Projets Clés
 
-## 🤝 Me contacter
-Vous avez plusieurs options pour me contacter. Pour des contacts pro, passez directement par **[mon adresse mail](mailto:contact@unigency.fr?subject=Contact%20via%20Github)**.
-Pour d'autres demandes, vous pouvez me contacter depuis mes réseaux sociaux.
+- **[Panderia](https://panderia.fr)** (2020) : J'ai débuté avec Panderia, un serveur Minecraft original mêlant survie et semi-RP, où les joueurs peuvent créer et faire évoluer leurs villes, villages, et nations.
+- **[Weedev](https://www.weedev.eu)** (2021) : J'ai fondé Weedev pour offrir des services de design et de développement sur mesure. Nous allions créativité et professionnalisme pour donner vie aux projets numériques de nos clients.
+- **[UniGency](https://www.unigency.fr)** : UniGency est une agence digitale destinée à accompagner les projets et petites entreprises dans leur réussite à travers des solutions web stratégiques.
+- **[MyUniSpace](https://myunispace.com)** : Actuellement en développement, MyUniSpace est une suite complète d'outils en ligne pour améliorer la productivité des professionnels et particuliers.
+
+## ✨ Compétences
+
+Autodidacte, je m'épanouis dans plusieurs disciplines, notamment :
+
+- **Développement web** : Création de sites et d'applications intuitifs et modernes.
+- **Design graphique et 3D** : De la modélisation 3D à l'impression 3D, avec un souci constant de qualité et de précision.
+- **Marketing et communication** : Élaboration de stratégies de marque et de communication digitale.
+- **Gestion de projets** : Organisation et pilotage de projets techniques, de la planification à l'exécution.
+
+Vous pouvez également suivre mes projets et découvertes en conception 3D sur **[ma chaîne YouTube](https://www.youtube.com/@Hugo3DMaker)**.
+
+## 🤝 Contact
+
+Pour des collaborations professionnelles, veuillez me contacter par **[email](mailto:contact@unigency.fr?subject=Contact%20via%20Github)**. Pour toute autre demande, retrouvez-moi sur mes réseaux sociaux.
