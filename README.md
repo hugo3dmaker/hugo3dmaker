@@ -20,7 +20,7 @@ Autodidacte, je m'épanouis dans plusieurs disciplines, notamment :
 - **Marketing et communication** : Élaboration de stratégies de marque et de communication digitale.
 - **Gestion de projets** : Organisation et pilotage de projets techniques, de la planification à l'exécution.
 
-Vous pouvez également suivre mes projets et découvertes en conception 3D sur **[ma chaîne YouTube](https://www.youtube.com/@Hugo3DMaker)**.
+Vous pouvez également suivre mes projets et découvertes en conception 3D sur **[YouTube](https://www.youtube.com/@Hugo3DMaker)**.
 
 ## 🤝 Contact
 
