@@ -6,7 +6,7 @@ Je m'appelle Hugo Rochette, passionné par le monde de l'informatique et des nou
 
 ### Mes Projets Clés
 
-- **[Panderia](https://panderia.fr)** (2020) : J'ai débuté avec Panderia, un serveur Minecraft original mêlant survie et semi-RP, où les joueurs peuvent créer et faire évoluer leurs villes, villages, et nations.
+- **Panderia** (2020) : J'ai débuté avec Panderia, un serveur Minecraft original mêlant survie et semi-RP, où les joueurs peuvent créer et faire évoluer leurs villes, villages, et nations.
 - **[Weedev](https://www.weedev.eu)** (2021) : J'ai fondé Weedev pour offrir des services de design et de développement sur mesure. Nous allions créativité et professionnalisme pour donner vie aux projets numériques de nos clients.
 - **[UniGency](https://www.unigency.fr)** (2022) : UniGency est une agence digitale destinée à accompagner les projets et petites entreprises dans leur réussite à travers des solutions web stratégiques.
 - **[MyUniSpace](https://myunispace.com)** (2025): MyUniSpace est une suite complète d'outils en ligne pour améliorer la productivité des professionnels et particuliers.
